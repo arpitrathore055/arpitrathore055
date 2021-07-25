@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arpitrathore055.github.io
+- 👋 Hi, I’m arpitrathore055.github.io
 - 👀 I’m interested in solving logical problems,coding,watching movies and tourism.
 - 🌱 I’m currently learning data structure and algoritms and web development(front-end).
 - 💞️ I’m looking to collaborate on ...
