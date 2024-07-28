@@ -66,4 +66,6 @@
 <img src="https://raw.githubusercontent.com/arpitrathore055/arpitrathore055/output/snake.svg" alt="Snake animation" />
 
 ###
-![](https://leetcard.jacoblin.cool/arpit_055?ext=heatmap)
+<div align="center">
+  ![](https://leetcard.jacoblin.cool/arpit_055?ext=heatmap)
+</div>
