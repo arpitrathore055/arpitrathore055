@@ -61,9 +61,8 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/arpitrathore055/arpitrathore055/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/arpitrathore055/arpitrathore055/blob/output/github-contribution-grid-snake.svg)
 
 ###
 ![](https://leetcard.jacoblin.cool/arpit_055?ext=heatmap&&animation=true)
