@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Analyst Trainee at Deloitte<br>- 📚 I'm currently learning Spring Boot,Java<br>- ⚡ In my free time I love listening songs, travelling, probelm solving</p>
+📚 I'm currently learning Spring Boot,Java<br> ⚡ In my free time I love listening songs, travelling, probelm solving</p>
 
 ###
 
