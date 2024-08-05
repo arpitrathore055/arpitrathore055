@@ -63,8 +63,7 @@
 
 ###
 
-
-![snake gif](https://github.com/arpitrathore055/arpitrathore055/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/arpitrathore055/arpitrathore055/output/github-contribution-grid-snake.svg" />
 
 ## LeetCode Stats
 
