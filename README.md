@@ -22,7 +22,9 @@
 <img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611tj6fysvm1rqw0u44buqb6dr291uoa9k87pgax2wa&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
+<h1 style="text-align: left; display: inline; border-bottom: none;">Language & Tools</h1>
 
+###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
