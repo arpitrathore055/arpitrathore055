@@ -67,6 +67,11 @@
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arpitrathore055/arpitrathore055/output/github-contribution-grid-snake-dark.svg" />
 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arpitrathore055&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
+
 ## LeetCode Stats
 
 <div style="display: flex; justify-content: center; align-items: center;">
