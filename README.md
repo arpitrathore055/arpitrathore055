@@ -19,12 +19,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitrathore055&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
+<br>
 <img align="right" height="150" src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif?cid=790b7611tj6fysvm1rqw0u44buqb6dr291uoa9k87pgax2wa&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
 <h1 style="text-align: left; display: inline; border-bottom: none;">Language & Tools</h1>
+
+
 
 ###
 <div align="left">
@@ -66,11 +67,6 @@
 ###
 
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/arpitrathore055/arpitrathore055/output/github-contribution-grid-snake-dark.svg" />
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=arpitrathore055&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
-
 
 ## LeetCode Stats
 
