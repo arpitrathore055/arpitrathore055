@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋! I'm Arpit Rathore<br>💼 Analyst Trainee at Deloitte USI, Hyderabad | 🚀 Exploring tech and problem-solving</h1>
+<h1 align="left">Hi 👋! I'm Arpit Rathore<br>💼 Analyst at Deloitte USI, Hyderabad | 🚀 Exploring tech and problem-solving</h1>
 
 ###
 
-📚 I’m currently working at Deloitte USI as an Analyst Trainee, where I’ve undergone training in NetSuite ERP, Java, and SQL. Alongside my role, I’ve earned the Zuora 101 Certification and continue to expand my expertise in enterprise solutions and backend development.
+📚 I’m currently working at Deloitte USI as an Analyst, where I’ve undergone training in NetSuite ERP, Java, and SQL. Alongside my role, I’ve earned the Zuora 101 Certification and continue to expand my expertise in enterprise solutions and backend development.
 
 ⚡ Beyond work, I enjoy problem-solving, exploring new places, and immersing myself in music.
 
