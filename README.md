@@ -1,11 +1,9 @@
-<h1 align="left">Hi 👋! I'm Arpit Rathore<br>💼 Analyst at Deloitte USI, Hyderabad | Analyst @ Deloitte USI | Exploring Backend Engineering & Distributed Systems</h1>
+<h1 align="left">Hi 👋! I'm Arpit Rathore<br>💼 Analyst @ Deloitte USI, Hyderabad | Exploring Backend Engineering & Distributed Systems</h1>
 
 ###
 
 💼 Analyst @ Deloitte USI, working with NetSuite and enterprise technologies while building a strong foundation in software development.
-
 🚀 Outside my day-to-day work, I’m diving deeper into backend engineering, microservices, and distributed systems through hands-on projects with Java, Spring Boot, Kafka, Redis, MySQL, and Docker.
-
 🧠 Curious by nature. Builder by choice. Always learning.
 
 ###
